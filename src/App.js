@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Hola c:</h1>
+    <h1>Hola c: me gusta la birulana</h1>
   );
 }
 
